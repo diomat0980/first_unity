@@ -1,5 +1,9 @@
 sceneSetups:
-- path: Assets/JKT_ART/scenes/3D_Monster_free.unity
+- path: Assets/edter interpace/eee.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/memory struct/scenes/edter interpace.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
